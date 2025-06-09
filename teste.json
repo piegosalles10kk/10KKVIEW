@@ -1,0 +1,126 @@
+[
+  {
+    "hostname": "SRV001",
+    "machine_alias": "Server-A",
+    "timestamp_coleta": "05/06/2025 16:45:12",
+    "monitoramento": {
+      "cpu": {
+        "percentual_uso": 87,
+        "nucleos_fisicos": 6,
+        "nucleos_logicos": 12,
+        "nome": "Intel Core i9-10900K",
+        "temperatura_package_celsius": 72,
+        "uso_total_percent": 87
+      },
+      "memoria_ram": {
+        "total_gb": 32,
+        "usado_gb": 12,
+        "percentual_uso": 37.5
+      },
+      "disco_principal": {
+        "total_gb": 1000,
+        "usado_gb": 250,
+        "livre_gb": 750,
+        "percentual_uso": 25
+      },
+      "gpu": {
+        "nome": "NVIDIA RTX 3070",
+        "temperatura_core_celsius": 50,
+        "uso_percentual": 67
+      }
+    }
+  },
+  {
+    "hostname": "WORKSTATION02",
+    "machine_alias": "W-S",
+    "timestamp_coleta": "05/06/2025 16:46:07",
+    "monitoramento": {
+      "cpu": {
+        "percentual_uso": 45,
+        "nucleos_fisicos": 8,
+        "nucleos_logicos": 16,
+        "nome": "AMD Ryzen 9 5900X",
+        "temperatura_package_celsius": 60,
+        "uso_total_percent": 45
+      },
+      "memoria_ram": {
+        "total_gb": 64,
+        "usado_gb": 18,
+        "percentual_uso": 28.1
+      },
+      "disco_principal": {
+        "total_gb": 512,
+        "usado_gb": 120,
+        "livre_gb": 392,
+        "percentual_uso": 23.4
+      },
+      "gpu": {
+        "nome": "AMD Radeon RX 6900 XT",
+        "temperatura_core_celsius": 40,
+        "uso_percentual": 52
+      }
+    }
+  },
+  {
+    "hostname": "LAPTOP15",
+    "machine_alias": "LPT-15",
+    "timestamp_coleta": "05/06/2025 16:47:22",
+    "monitoramento": {
+      "cpu": {
+        "percentual_uso": 76,
+        "nucleos_fisicos": 4,
+        "nucleos_logicos": 8,
+        "nome": "Intel Core i7-1185G7",
+        "temperatura_package_celsius": 68,
+        "uso_total_percent": 76
+      },
+      "memoria_ram": {
+        "total_gb": 16,
+        "usado_gb": 10,
+        "percentual_uso": 62.5
+      },
+      "disco_principal": {
+        "total_gb": 256,
+        "usado_gb": 180,
+        "livre_gb": 76,
+        "percentual_uso": 70.3
+      },
+      "gpu": {
+        "nome": "Intel Iris Xe Graphics",
+        "temperatura_core_celsius": 35,
+        "uso_percentual": 15
+      }
+    }
+  },
+  {
+    "hostname": "DESKTOP-GAMER",
+    "machine_alias": "D-G",
+    "timestamp_coleta": "05/06/2025 16:48:55",
+    "monitoramento": {
+      "cpu": {
+        "percentual_uso": 95,
+        "nucleos_fisicos": 8,
+        "nucleos_logicos": 16,
+        "nome": "Intel Core i7-12700KF",
+        "temperatura_package_celsius": 80,
+        "uso_total_percent": 95
+      },
+      "memoria_ram": {
+        "total_gb": 32,
+        "usado_gb": 25,
+        "percentual_uso": 78.1
+      },
+      "disco_principal": {
+        "total_gb": 2000,
+        "usado_gb": 1200,
+        "livre_gb": 800,
+        "percentual_uso": 60
+      },
+      "gpu": {
+        "nome": "NVIDIA RTX 4090",
+        "temperatura_core_celsius": 70,
+        "uso_percentual": 89
+      }
+    }
+  }
+]
