@@ -1,4 +1,4 @@
-# 10KK VIEW API
+# 10KK VIEW
 
 ## 📌 **Pré-requisitos**
 Antes de iniciar, certifique-se de que tem o seguinte instalado:
